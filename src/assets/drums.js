@@ -2,13 +2,13 @@ let drums = [
   {
     id: 1,
     name: "Q",
-    audio: "https://s3.amazonaws.com/freecodecamp/drums/Heater-1.mp3",
+    audio: "https://s3.amazonaws.com/freecodecamp/drums/Heater-3.mp3",
     audioName: "best drum1",
   },
   {
     id: 2,
     name: "W",
-    audio: "https://s3.amazonaws.com/freecodecamp/drums/Heater-2.mp3",
+    audio: "https://s3.amazonaws.com/freecodecamp/drums/Heater-3.mp3",
     audioName: "best drum2",
   },
   {
@@ -20,13 +20,13 @@ let drums = [
   {
     id: 4,
     name: "A",
-    audio: "https://s3.amazonaws.com/freecodecamp/drums/Heater-4_1.mp3",
+    audio: "https://s3.amazonaws.com/freecodecamp/drums/Dsc_Oh.mp3",
     audioName: "best drum4",
   },
   {
     id: 5,
     name: "S",
-    audio: "https://s3.amazonaws.com/freecodecamp/drums/Heater-1.mp3",
+    audio: "https://s3.amazonaws.com/freecodecamp/drums/Dsc_Oh.mp3",
     audioName: "best drum5",
   },
   {
@@ -44,7 +44,7 @@ let drums = [
   {
     id: 8,
     name: "X",
-    audio: "https://s3.amazonaws.com/freecodecamp/drums/Heater-1.mp3",
+    audio: "https://s3.amazonaws.com/freecodecamp/drums/Kick_n_Hat.mp3",
     audioName: "best drum8",
   },
   {
